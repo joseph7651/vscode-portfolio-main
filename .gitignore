@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/.git_script
 
 # testing
 /coverage
@@ -35,3 +36,5 @@ commit-backfill.py
 
 # cursor
 .cursor
+
+# touched on 2025-08-14T19:15:44.518822Z
